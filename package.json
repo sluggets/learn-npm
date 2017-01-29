@@ -1,0 +1,26 @@
+{
+  "name": "learning",
+  "version": "0.0.1",
+  "description": "learning npm better",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Tim Longoria",
+  "license": "CC-BY-NC-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sluggets/learn-npm.git"
+  },
+  "keywords": [
+    "learn",
+    "upgradegreymatter"
+  ],
+  "bugs": {
+    "url": "https://github.com/sluggets/learn-npm/issues"
+  },
+  "homepage": "https://github.com/sluggets/learn-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
